@@ -4,3 +4,6 @@ Go to the bseindia website. Then enter the name of the stock .All the main detai
 comparison of all details with current value, fluctuation percentage, the high, low of the day, etc.
 Details are sorted in excel in such a way that at the top, the stock name is showing which is more profitable. 
 After this, the excel file will be automatically sent to the concerned client through mail.
+
+input way
+node CompareStock.js "ICICI BANK LTD." "HDFC BANK LTD" "GOODYEAR INDIA LTD." "SAT INDUSTRIES LTD." "STATE BANK OF INDIA"
