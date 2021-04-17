@@ -1,0 +1,19 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CompareStock.js",
+  "dependencies": {
+    "nodemailer": "^6.5.0",
+    "pdfkit": "^0.11.0",
+    "puppeteer": "^8.0.0",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
